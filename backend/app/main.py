@@ -21,7 +21,7 @@ import uuid
 logger = logging.getLogger(__name__)
 
 # Gemini API key
-GOOGLE_API_KEY = "AIzaSyCzLk-nONdcr6Wd4_DPFpNsOfFNLhvY4BU"  
+GOOGLE_API_KEY = ""  
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 
 
